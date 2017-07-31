@@ -1,4 +1,4 @@
-# holman does dotfiles
+# leggo-my-eggo dotfiles, forked from "holman does dotfiles"
 
 Your dotfiles are how you personalize your system. These are mine.
 
