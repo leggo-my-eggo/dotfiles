@@ -4,10 +4,13 @@ brew "mas"
 
 cask "1password"
 cask "caffeine"
+cask "iterm2"
+cask "keyboard-maestro"
 cask "launchbar"
 cask "quicklook-csv"
 cask "quicklook-json"
-cask "sublime-text" 
+cask "sublime-text"
+cask "transmit"
 
 mas "Bear",				id: 1091189122
 mas "Kaleidoscope",		id: 587512244
