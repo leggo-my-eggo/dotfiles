@@ -8,3 +8,7 @@ then
   alias ll="gls -l --color"
   alias la='gls -A --color'
 fi
+
+alias gs="git status"
+alias gc="git commmit -m "
+alias ga="git add -p"
