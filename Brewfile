@@ -7,6 +7,7 @@ brew "mas" #For installing app store applications
 brew "nvm" #Then `nvm install node`
 brew "rlwrap" #centralpark
 brew "tldr"
+brew "tree"
 brew "vault"
 
 cask "1password"
@@ -19,6 +20,7 @@ cask "ksdiff"
 cask "launchbar"
 cask "quicklook-csv"
 cask "quicklook-json"
+cask "screenflow"
 cask "sublime-text"
 cask "transmit"
 
@@ -31,3 +33,4 @@ mas "Napkin",			id: 581789185
 mas "Slack",			id: 803453959
 mas "Soulver 2",		id: 413965349
 mas "Spark",			id: 1176895641
+mas "Things 3",         id: 904280696
